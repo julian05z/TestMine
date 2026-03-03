@@ -1,17 +1,17 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Meine Musik Discs (13)",
-    "description": "Ersetzt Musikscheibe 13",
-    "uuid": "7b2fb0f8-9c40-4d41-89f2-8f4af5f5b7a4",
-    "version": [1, 0, 0],
+    "name": "Meine Musik Discs (13) - v2",
+    "description": "Ersetzt Musikscheibe 13 (updated path fix)",
+    "uuid": "c2a55b35-3c47-4d15-ae51-8bd6f4b61e93",
+    "version": [1, 0, 1],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "e7d0ff8d-5e5a-4ee3-9e77-6d12f9ad9f6d",
-      "version": [1, 0, 0]
+      "uuid": "7f3d6a6a-0dfb-4a9e-b31c-d2c63aa6ce68",
+      "version": [1, 0, 1]
     }
   ]
 }
